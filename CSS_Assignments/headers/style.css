@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding:0px
+}
+
+
+#headings {
+    background-color: black;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#headings h1{
+    color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#headings h2{
+    color: chartreuse;
+}
+
+#headings h3{
+    color: aqua;
+}
+
+#headings h4{
+    color: rgb(255, 0, 208);
+}
